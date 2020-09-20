@@ -14,7 +14,7 @@ permalink: /blog/
  </li>
 <li> Trên thực tế thì thuật ngữ <b>"Data Mining" </b> là một cách gọi sai, vì mục tiêu là khai thác các mẫu và kiến thức từ một lượng lớn dữ liệu, chứ không phải khai thác (mining) dữ liệu. Tuy nhiên đây là một tên gọi thông dụng và thường được áp dụng cho bất kỳ dạng dữ liệu hoặc xử lý thông tin quy mô lớn nào (thu thập, trích xuất, luu trữ, phân tích và thống kê) cũng như mọi ứng dụng của hệ thống hỗ trợ quyết định máy tính, bao gồm cả trí tuệ nhân tạo và trí tuệ kinh doanh.
  </li>
-<li> Tóm lại, <b>Data Mining </b> là một quá trình biến dữ liệu thô thành các thông tin hữu ích. Đó là quá tình tìm kiếm sự bất thường, mô hình và mối tương quan trong các tập dữ liệu lớn để dự đoán kết quả. Bằng cách sử dụng công cụ này để tìm kiếm các mẫu trong mộ lô dữ liệu lớn, doanh nghiệp có thể tìm hiểu thêm về khách hàng, đồng thời có cơ sở để phát triển chiến lược tiếp thị hiệu quả hơn, tăng doanh số và giảm những chi phí không cần thiết. <b>Data Mining <b> phụ thuộc vào việc thu thập dữ liệu, lưu kho và xử lý máy tính hiệu quả.
+<li> Tóm lại, <b>Data Mining </b> là một quá trình biến dữ liệu thô thành các thông tin hữu ích. Đó là quá tình tìm kiếm sự bất thường, mô hình và mối tương quan trong các tập dữ liệu lớn để dự đoán kết quả. Bằng cách sử dụng công cụ này để tìm kiếm các mẫu trong mộ lô dữ liệu lớn, doanh nghiệp có thể tìm hiểu thêm về khách hàng, đồng thời có cơ sở để phát triển chiến lược tiếp thị hiệu quả hơn, tăng doanh số và giảm những chi phí không cần thiết. <b>Data Mining </b> phụ thuộc vào việc thu thập dữ liệu, lưu kho và xử lý máy tính hiệu quả.
  </li>
 <li><b><i>Source:</i></b> <i>Internet</i>. 
  </li>
